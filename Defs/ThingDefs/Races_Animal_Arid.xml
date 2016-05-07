@@ -37,7 +37,6 @@
       <thinkTreeMain>Animal</thinkTreeMain>
       <thinkTreeConstant>AnimalConstant</thinkTreeConstant>
       <minFoodPreferability>NeverForNutrition</minFoodPreferability>
-      <isFlesh>true</isFlesh>
       <hasGenders>true</hasGenders>
       <nameGenerator>NamerAnimalGeneric</nameGenerator>
       <manhunterOnDamageChance>0.0125</manhunterOnDamageChance>
