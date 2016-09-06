@@ -10,6 +10,9 @@ This is done with setting:
 
 <thingClass>Enhanced_Development.PersonalShields.Animal.ShieldPawn</thingClass>
 
+To Update to a new version it will be easier to copy over the base animal objects and the just replace the thingclass in base.
+Remove HumanLike and Mechanoid
+
 #Change Log
 
 01.00.00
@@ -17,3 +20,6 @@ This is done with setting:
 
 02.00.00
 *Alpha 14 Update
+
+03.00.00
+*Alpha 15 Update
